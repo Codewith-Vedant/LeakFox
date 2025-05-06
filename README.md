@@ -133,7 +133,8 @@ LeakFox supports the detection and validation of the following API key types:
 ### 1. **Interactive Mode**
    Run LeakFox in interactive mode to manually test API keys:
    ```bash
-   python3 LeakFox_Windows.py
+   python3 LeakFox_Windows.py --> For Windows Users
+   python3 LeakFox_Linux.py --> For Linux Users
    ```
 
 ### 2. **Load API Keys from a File**
@@ -181,9 +182,9 @@ mapbox api key,pk.eyJ1IjoiZXhhbXBsZSIsImEiOiJja2V5In0
 
 ---
 
-## Security and Privacy
+## Contributions
 
-LeakFox only analyzes the provided API keys and does not retain any sensitive information. Ensure your API key files are stored securely and deleted after use.
+All Contributions to the project are welcome
 
 ---
 
