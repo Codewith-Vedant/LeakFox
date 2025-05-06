@@ -1,2 +1,0 @@
-slack webhook,https://hooks.slack.com/triggers/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
-mailchimp api key,ea5072cae56749ce8e619be267a7119e-us5,us5
