@@ -189,4 +189,4 @@ LeakFox only analyzes the provided API keys and does not retain any sensitive in
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE[LICENSE} file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
