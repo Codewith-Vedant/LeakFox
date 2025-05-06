@@ -121,8 +121,8 @@ LeakFox supports the detection and validation of the following API key types:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Codewith-Vedant/leakfox.git
-   cd leakfox
+   git clone https://github.com/Codewith-Vedant/LeakFox.git
+   cd LeakFox
    pip install -r requirements.txt
    ```
 
@@ -133,25 +133,25 @@ LeakFox supports the detection and validation of the following API key types:
 ### 1. **Interactive Mode**
    Run LeakFox in interactive mode to manually test API keys:
    ```bash
-   python LeakFox_Windows.py
+   python3 LeakFox_Windows.py
    ```
 
 ### 2. **Load API Keys from a File**
    Test multiple API keys by loading them from a file:
    ```bash
-   python LeakFox_Windows.py -l file.txt
+   python3 LeakFox_Windows.py -l file.txt
    ```
 
 ### 3. **Quiet Mode**
    Run LeakFox in quiet mode for minimal output:
    ```bash
-   python LeakFox_Windows.py -q
+   python3 LeakFox_Windows.py -q
    ```
 
 ### 4. **Help**
    Display the help menu:
    ```bash
-   python LeakFox_Windows.py -h
+   python3 LeakFox_Windows.py -h
    ```
 
 ---

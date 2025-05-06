@@ -1,0 +1,6 @@
+argparse
+subprocess
+os
+json
+re
+colorama
