@@ -1,0 +1,15 @@
+1.  AWS Access Key ID and Secret           2.  Google Maps API Key            3.  Slack Webhook                   4.  Stripe Access Token             5.  PagerDuty API Token
+6.  Microsoft Teams Webhook               7.  Twitter Bearer Token           8.  Shodan API Key                  9.  Firebase Cloud Messaging Key    10. GitLab Personal Access Token
+11. Mailgun Private Key                   12. SendGrid API Token             13. Mapbox API Key                 14. HubSpot Private App API Key    15. Spotify Access Token
+16. Heroku API Key                        17. Telegram Bot API Token         18. Bit.ly Access Token            19. Buildkite Access Token         20. CircleCI Access Token
+21. Dropbox API Key                       22. Wakatime API Key               23. New Relic Personal API Key     24. Azure Application Insights API Key  25. Datadog API Key
+26. Freshdesk API Key                     27. LinkedIn OAuth Key            28. Salesforce API Key             29. YouTube API Key                30. Iterable API Key
+31. Visual Studio App Center API Token    32. Asana Access Token             33. Amplitude API Key              34. Weglot API Key                 35. Calendly API Key
+36. Opsgenie API Key                      37. Bing Maps API Key              38. ButterCMS API Key              39. Razorpay API Key               40. Contentful Access Token
+41. DeviantArt Secret                     42. Facebook App Secret           43. PayPal Client ID and Secret    44. Mailchimp API Key              45. SauceLabs Access Key
+46. Twilio Account SID and Auth Token     47. Twitter API Secret             48. Grafana Access Token           49. Help Scout OAuth Token         50. IPStack API Key
+51. WP Engine API Key                     52. Bazaarvoice Passkey           53. PivotalTracker API Token       54. Square Auth Token              55. NPM Token
+56. ORS API Key                           57. Delighted API Key              58. Loqate API Key                 59. Cloudflare API Key             60. Instagram Graph API Key
+61. Zapier Webhook Token                  62. Lokalise API Key               63. Infura API Key                 64. JumpCloud API Key              65. New Relic REST API Key
+66. Razorpay API Key                      67. Facebook Access Token         68. Spotify Access Token           69. Stripe Access Token            70. SonarCloud Token
+71. Telegram Bot API Token                72. PagerDuty API Token           73. Slack API Token                74. Microsoft Teams Webhook       75. Travis CI API Token

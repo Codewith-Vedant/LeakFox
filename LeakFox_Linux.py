@@ -144,6 +144,9 @@ def main_menu():
             choice = input("Enter your choice: ")
 
             if choice == "1":
+                print(f"{YELLOW}Enter the API Key type exactly as one of the following supported types:{RESET}")
+                with open("supported_api_keys.txt", "r") as f:
+                    print(f.read())
                 try:
                     api_key_type = input("Enter API Key type: ").strip().lower()
                     if api_key_type == "mapbox api key":
