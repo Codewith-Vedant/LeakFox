@@ -172,7 +172,7 @@ def main_menu():
             else:
                 print(f"{RED}[!] Invalid choice. Please try again.{RESET}")
     except KeyboardInterrupt:
-        print("\nInterrupted by user. Exiting...")
+        print("\nMission Abort...")
     except Exception as e:
         print(f"{RED}[!] Unexpected error in main menu: {e}{RESET}")
 
